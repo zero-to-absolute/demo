@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9837E0-A69D-4638-9223-251C0F01A7E2}|Demo\\Demo.csproj|h:\\demo\\demo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9837E0-A69D-4638-9223-251C0F01A7E2}|Demo\\Demo.csproj|solutionrelative:demo\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9837E0-A69D-4638-9223-251C0F01A7E2}|Demo\\Demo.csproj|h:\\demo\\demo\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9837E0-A69D-4638-9223-251C0F01A7E2}|Demo\\Demo.csproj|solutionrelative:demo\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9837E0-A69D-4638-9223-251C0F01A7E2}|Demo\\Demo.csproj|h:\\demo\\demo\\costcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9837E0-A69D-4638-9223-251C0F01A7E2}|Demo\\Demo.csproj|solutionrelative:demo\\costcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9837E0-A69D-4638-9223-251C0F01A7E2}|Demo\\Demo.csproj|h:\\demo\\demo\\servicehistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9837E0-A69D-4638-9223-251C0F01A7E2}|Demo\\Demo.csproj|solutionrelative:demo\\servicehistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9837E0-A69D-4638-9223-251C0F01A7E2}|Demo\\Demo.csproj|h:\\demo\\demo\\addeditpartnerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9837E0-A69D-4638-9223-251C0F01A7E2}|Demo\\Demo.csproj|solutionrelative:demo\\addeditpartnerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "H:\\Demo\\Demo\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Demo\\MainForm.Designer.cs",
+              "ToolTip": "H:\\Demo\\Demo\\MainForm.Designer.cs",
+              "RelativeToolTip": "Demo\\MainForm.Designer.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAADwv48AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T08:47:00.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEditPartnerForm.cs",
+              "DocumentMoniker": "H:\\Demo\\Demo\\AddEditPartnerForm.cs",
+              "RelativeDocumentMoniker": "Demo\\AddEditPartnerForm.cs",
+              "ToolTip": "H:\\Demo\\Demo\\AddEditPartnerForm.cs",
+              "RelativeToolTip": "Demo\\AddEditPartnerForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T08:02:57.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CostCalculator.cs",
+              "DocumentMoniker": "H:\\Demo\\Demo\\CostCalculator.cs",
+              "RelativeDocumentMoniker": "Demo\\CostCalculator.cs",
+              "ToolTip": "H:\\Demo\\Demo\\CostCalculator.cs",
+              "RelativeToolTip": "Demo\\CostCalculator.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAgwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T07:40:29.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "H:\\Demo\\Demo\\MainForm.cs",
+              "RelativeDocumentMoniker": "Demo\\MainForm.cs",
+              "ToolTip": "H:\\Demo\\Demo\\MainForm.cs",
+              "RelativeToolTip": "Demo\\MainForm.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T07:37:54.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceHistoryForm.cs",
+              "DocumentMoniker": "H:\\Demo\\Demo\\ServiceHistoryForm.cs",
+              "RelativeDocumentMoniker": "Demo\\ServiceHistoryForm.cs",
+              "ToolTip": "H:\\Demo\\Demo\\ServiceHistoryForm.cs",
+              "RelativeToolTip": "Demo\\ServiceHistoryForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T07:39:57.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+H:\Demo\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+H:\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+H:\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+H:\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+H:\Demo\Demo\bin\Debug\Demo.exe.config
+H:\Demo\Demo\bin\Debug\Demo.exe
+H:\Demo\Demo\bin\Debug\Demo.pdb
+H:\Demo\Demo\obj\Debug\Demo.exe
+H:\Demo\Demo\obj\Debug\Demo.pdb
